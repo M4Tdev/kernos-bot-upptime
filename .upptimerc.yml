@@ -8,7 +8,7 @@ sites:
     url: https://kernos-discord-bot.herokuapp.com/
 
 status-website:
-  # baseUrl: /kernos-bot-upptime
+  baseUrl: /kernos-bot-upptime
   name: Kernos Discord Bot Upptime
   navbar:
     - title: Status
