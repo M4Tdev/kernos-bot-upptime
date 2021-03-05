@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/kernos-discord-bot.herokuapp.com",
     "slug": "kernos-discord-bot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 390,
-    "timeWeek": 425,
-    "timeMonth": 454,
-    "timeYear": 445,
+    "uptime": "99.92%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.92%",
+    "time": 446,
+    "timeDay": 466,
+    "timeWeek": 426,
+    "timeMonth": 456,
+    "timeYear": 446,
     "dailyMinutesDown": {
-      "2021-03-04": 0
+      "2021-03-05": 8,
+      "2021-03-04": 63
     }
   }
 ]
