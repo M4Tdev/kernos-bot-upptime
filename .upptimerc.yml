@@ -4,8 +4,8 @@ repo: kernos-bot-upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-#   - name: Kernos Discord BOT
-#     url: https://kernos-discord-bot.herokuapp.com/
+  - name: Kernos Discord BOT
+    url: https://kernos-discord-bot.herokuapp.com/
 
 status-website:
   baseUrl: /kernos-bot-upptime
